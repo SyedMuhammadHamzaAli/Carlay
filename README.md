@@ -1,7 +1,31 @@
-# Carlay (Project in Production)
-A Rent A Car Website for finding the available cars and online booking for the desired car with a three click ease.# 
-# Technologies
-1) ReactJs (Html, CSS, Java Script)
-2) Redux
-3) Typescript
-4) Firebase (Authentication, Fire store Database, Storage)
+# Carlay - Rent a Car Business Website
+
+This is **Carlay**, an online platform for renting cars. It allows users to book cars, view available cars, and manage their reservations. The admin panel provides features to manage cars, locations, reservations, and contact messages. The app is built with **ReactJS** and **Firebase** for seamless user authentication and data management.
+
+![ReactJS Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) ![Firebase Logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/Firebase_Logo.png)
+
+## User Features
+
+### User Authentication
+- **Sign Up & Log In**: Users can create an account or log in to manage their reservations using Firebase Authentication.
+
+### Reservation System
+- **Browse Cars**: Users can view available cars with their models, prices, and specifications.
+- **Book Cars**: Users can make reservations for specific dates and locations.
+
+### Account Management
+- **View Reservations**: Users can view and manage all their past and upcoming reservations.
+
+## Admin Panel Features
+
+### Car Management
+- **Add/Update/Remove Cars**: Admins can add, edit, or remove car brands and models from the inventory.
+
+### Location Management
+- **Manage Rental Locations**: Admins can add, update, or remove rental locations and their details.
+
+### Contact Form Management
+- **Manage Messages**: Admins can view and respond to messages submitted through the website’s contact form.
+
+### Reservation Management
+- **View All Reservations**: Admins can view all user reservations and cancel bookings when necessary.
