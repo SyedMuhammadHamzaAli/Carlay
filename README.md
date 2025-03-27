@@ -5,7 +5,7 @@ This is **Carlay**, an online platform for renting cars. It allows users to book
 ![My Skills](https://skillicons.dev/icons?i=react,firebase,bootstrap,figma,typescript&theme=light)
 
 ## Live demo 🌐
-[Visit Carlay Website](https://fancy-pavlova-3ba1f4.netlify.app/)
+[Visit Carlay Website](https://www.whcarlay.com/)
 ## User Features
 
 ### User Authentication
