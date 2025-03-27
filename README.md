@@ -1,4 +1,4 @@
-# Carlay - Rent a Car Business Website (In Production)
+# Carlay - Rent a Car Business Website (Code Restricted - Email for details)
 
 This is **Carlay**, an online platform for renting cars. It allows users to book cars, view available cars, and manage their reservations. The admin panel provides features to manage cars, locations, reservations, and contact messages. The app is built with **ReactJS** and **Firebase** for seamless user authentication and data management.
 
